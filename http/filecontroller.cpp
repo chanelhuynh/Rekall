@@ -6,7 +6,7 @@
     Development & interactive design: Guillaume Jacquemin & Guillaume Marais (http://www.buzzinglight.com)
 
     This file was written by Guillaume Jacquemin.
-
+,
     Rekall is a free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
